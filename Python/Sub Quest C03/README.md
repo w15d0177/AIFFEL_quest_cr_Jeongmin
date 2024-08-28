@@ -15,9 +15,11 @@
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 발생한 문제와 원인 서술이 되어 있습니다.
+    - <img src=https://github.com/rumelay/Aiffel_quest_cr/blob/2d3e0a7464955da9360540b84a5baab3aa161b39/C3.png>
         
 - [x]  **4. 회고를 잘 작성했나요?**
     - 문제의 난이도에 대한 인상과 퀘스트를 진행하며 느낀 점이 잘 작성되어 있습니다.
+    - <img src=https://github.com/rumelay/Aiffel_quest_cr/blob/2d3e0a7464955da9360540b84a5baab3aa161b39/C4.png>
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 배운 방법들을 활용해서 간결하게 작성된 것으로 보입니다.
