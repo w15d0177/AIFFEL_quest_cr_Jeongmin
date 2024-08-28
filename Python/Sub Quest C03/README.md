@@ -6,7 +6,7 @@
 # PRT(Peer Review Template)
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 제시된 결과가 올바르게 표시되고 있습니다.
-    
+  <img src=https://github.com/rumelay/Aiffel_quest_cr/blob/b7dd4bc307e314a07f7234ab9a8da0ed2e419dab/C1.png>
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 각 함수와 의미하는 동작이 주석으로 잘 적혀져 있습니다. 
