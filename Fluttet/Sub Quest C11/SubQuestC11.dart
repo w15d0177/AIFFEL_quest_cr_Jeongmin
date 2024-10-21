@@ -12,7 +12,7 @@ void main() {
 
   void startPomodoroCycle() {
     print('Pomodoro 타이머를 시작합니다.');
-
+    currentCycle++;
     void startTimer(int duration, String message) {
       int remainingTime = duration;
       Timer.periodic(Duration(seconds: 1), (timer) {
@@ -22,11 +22,11 @@ void main() {
             'flutter: ${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}');
 
         remainingTime--;
-        currentCycle++;
+      
         if (remainingTime < 0) {
           timer.cancel();
           print(message);
-
+        }
           if (isWorking) {
             if (currentCycle == cyclesBeforeLongBreak) {
               isWorking = false;
@@ -42,7 +42,6 @@ void main() {
             isWorking = true;
             startTimer(workDuration, 'flutter: 작업 시간이 종료되었습니다. 휴식 시간을 시작합니다.');
           }
-        }
       });
     }
 
