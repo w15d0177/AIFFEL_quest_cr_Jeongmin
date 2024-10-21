@@ -19,7 +19,7 @@ class DogPage extends StatelessWidget {
                     onPressed: () => (Navigator.pushNamed(context, '/'))),
                 InkWell(
                   onTap: () {
-                    print('is_cat : $args');
+                    print('is_cat : $args'); // false
                   },
                   child: Image.asset(
                     'images/white.png',
