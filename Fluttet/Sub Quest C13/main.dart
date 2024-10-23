@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import 'catPage.dart';
 import 'dogPage.dart';
 
@@ -15,3 +15,4 @@ class MyApp extends StatelessWidget {
     });
   }
 }
+*/
