@@ -1,3 +1,26 @@
+# YES24 앱 분석 및 역설계 하기
+---
+### 앱 정보
+---
+* 앱 이름
+    * YES24
+* 시장(마켓)
+    * 2022년 기준 전 세계 도서 및 만화 앱 시장 규모는 24억 달러를 넘어섰으며, 그 중 국내 도서 및 만화 앱 시장의 규모는 1조 이상의 시장성을 가짐
+* 타겟
+    * 이용자가 가장 많은 20 ~ 40대 여성층 및 오디오북을 선호하는 40 ~ 50대 이상 남성층
+
+  ### 앱 구조도
+  ---
+  ![image](https://github.com/user-attachments/assets/18aef22e-0689-4c44-a997-9b4376627554)
+
+  ### 앱 와이어프레임
+  ---
+  ![image](https://github.com/user-attachments/assets/8a3dc8c8-2058-406f-933c-63ac6f722e3b)
+
+  ### 프로토타이핑 (사용 툴: Marvel)
+  ---
+  https://www.notion.so/modulabs/Flutter-04-M2-c74d194425964965b33aff20bf2086be?pvs=4#0b9a566880e8407f936580a87d33bf9b
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 조정민
 - 리뷰어 : 김지혜 
