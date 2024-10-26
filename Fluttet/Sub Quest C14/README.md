@@ -19,7 +19,8 @@
 
   ### 프로토타이핑 (사용 툴: Marvel)
   ---
-  ![video](https://file.notion.so/f/f/c09f8228-29c7-4dcb-8ca3-1de7d3988fab/8fd342ff-515d-4cd5-aa14-3ccb3fe64c01/bandicam_2024-10-22_15-49-32-152.mp4?table=block&id=0b9a5668-80e8-407f-9365-80a87d33bf9b&spaceId=c09f8228-29c7-4dcb-8ca3-1de7d3988fab&expirationTimestamp=1730073600000&signature=p7ZQ82-T_FSR_RA5u4ByWc4ql0KZGatGEPstJQuZSPc&downloadName=bandicam+2024-10-22+15-49-32-152.mp4)
+  ![bandicam 2024-10-22 15-49-32-152](https://github.com/user-attachments/assets/958a0861-7c0f-404a-9ee0-6b9e4315a1ce)
+
   
 
 # AIFFEL Campus Online Code Peer Review Templete
