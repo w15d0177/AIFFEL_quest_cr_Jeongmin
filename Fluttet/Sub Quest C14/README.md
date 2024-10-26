@@ -23,13 +23,17 @@
 
   ### 페이지 구현
   ---
-  화면 구성
+  ##### 화면 구성
   main.dart - 메인 화면
   homePage.dart - 홈페이지 화면
 
-  기능 구성
+  ##### 기능 구성
   carouselSlider.dart - carouselSlider 패키지를 활용한 카드 슬라이드 
   imageSlider.dart - 이미지 슬라이드 
+
+  ### 구현영상
+  ---
+  ![bandicam 2024-10-23 17-08-51-695](https://github.com/user-attachments/assets/043d78bd-d831-4d72-b6cd-8e9410a07d71)
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 조정민
