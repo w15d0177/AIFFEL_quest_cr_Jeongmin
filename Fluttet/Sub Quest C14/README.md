@@ -35,6 +35,13 @@
   ---
   ![bandicam 2024-10-23 17-08-51-695](https://github.com/user-attachments/assets/043d78bd-d831-4d72-b6cd-8e9410a07d71)
 
+  ### 참고 학습 자료
+  ---
+
+  ### 회고
+  ---
+  무작정 앱 개발을 시작하기보다 어떤 기능들을 추가할지 화면은 어떤식으로 구성할지 구조도를 짜보고 프로토타이핑까지의 과정들이 중요하다는걸 깨달았습니다.
+  
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 조정민
 - 리뷰어 : 김지혜 
