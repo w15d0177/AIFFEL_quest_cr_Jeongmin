@@ -21,7 +21,15 @@
   ---
   ![bandicam 2024-10-22 15-49-32-152](https://github.com/user-attachments/assets/958a0861-7c0f-404a-9ee0-6b9e4315a1ce)
 
-  
+  ### 페이지 구현
+  ---
+  화면 구성
+  main.dart - 메인 화면
+  homePage.dart - 홈페이지 화면
+
+  기능 구성
+  carouselSlider.dart - carouselSlider 패키지를 활용한 카드 슬라이드 
+  imageSlider.dart - 이미지 슬라이드 
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 조정민
