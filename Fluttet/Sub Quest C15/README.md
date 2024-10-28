@@ -1,3 +1,7 @@
+# 구현 영상
+![bandicam 2024-10-28 17-14-53-238](https://github.com/user-attachments/assets/d7447275-097b-4d78-93a9-a1f0f5c9e697)
+
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
